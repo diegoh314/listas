@@ -1,0 +1,474 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Cpech</title>
+    <link href="Content\css.css?v=dd5-F5C3qtKe3OKMXg6pnSeSx60D8ILlEXgZvfWZ31o1" rel="stylesheet">
+
+    <script src="bundles\modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+
+
+    
+</head>
+<body style="background-color:#f2f2f2;">
+
+    <nav style="background-color: #015794" class="navbar-fixed-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+
+
+                    <p class="navUsuarioFecha">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21 agosto 2019</p>
+
+                    <div class="navUsuario">
+                        Director : Marlie Olivares Nu&#241;ez
+                        <p style="display:inline-block; font-size:20px;">&nbsp;|&nbsp;&nbsp;</p>
+                                                <!---<p style="display:inline-block">Notificaciones&nbsp;</p>--->
+                        
+                        <a style="color:white" href="/Login/Salir" title="Salir de Intranet">
+                            <p style="display:inline-block; font-weight:bold;">&nbsp;Salir</p>
+                            <i style="font-size:20px" class="fa fa-sign-in" aria-hidden="true"></i>
+                        </a>
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-navbar-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="dark-blue-text">
+                            <i class="fa fa-bars"></i>
+                        </span>
+                    </button>
+                    <a class="navbar-brand" href="#"><img width="130px" src="Content\images\logos\LogoFondoBlanco.png" onclick="location.href='/'"></a>
+                    <!--
+                    <a class="navbar-brand" href="#"><img width="70%" src="~/Content/images/logos/Logo4toMedio.png" /></a>
+                        -->
+                </div>
+                <div class="collapse navbar-collapse" id="top-navbar-1">
+                    <ul class="nav navbar-nav navbar-right">
+
+
+                        
+                                                <li>
+                                                    <a href="MisMateriales.html">
+                                                        <center>
+                                                            <i class="fa fa-book"></i>
+                                                            <br>
+                                                            Materiales
+                                                        </center>
+                                                    </a>
+                                                </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+
+    </nav>
+
+    <div style="padding-top: 121px;">
+        
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="padding-right:0px; padding-left:0px; ">
+                <div class="carousel slide" id="carousel-879311" data-ride="carousel" data-interval="8000">
+                    <ol class="carousel-indicators ">
+                            <li class="active" data-slide-to="0" data-target="#carousel-879311">
+                            </li>
+                    </ol>
+                    <div class="carousel-inner">
+                            <div class="item active">
+                                <a href="">
+                                    <img alt="Carousel Bootstrap First" src="Content\images\logos\carousel\I_mG20190415_030335.PNG">
+                                </a>
+                                
+                            </div>
+
+                    </div> <a class="left carousel-control" href="#carousel-879311" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#carousel-879311" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <section style="color: white; background-color:#f2f2f2;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 style="color:#0072cb; display:inline-block"><i class="fa fa-book" aria-hidden="true" style="float:left;"></i>&nbsp;LIBROS DIGITALES</h2>
+                    <a type="button" class="btn btn-ensayo" style="float:right; margin-top:20px;" href="/Biblioteca">Ver más libros</a>
+                </div>
+            </div>
+            <div class="row" style="padding-bottom: 30px;">
+                <div class="col-md-4 col-xs-4 col-sm-4">
+                    <a href="/Biblioteca"><img src="Content\images\logos\extras\lenguaje.png"></a>
+                </div>
+                <div class="col-md-4 col-xs-4 col-sm-4">
+                    <a href="/Biblioteca"><img src="Content\images\logos\extras\historia.png"></a>
+                </div>
+                <div class="col-md-4 col-xs-4 col-sm-4">
+                    <a href="/Biblioteca"><img src="Content\images\logos\extras\fisica.png"></a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+<div class="modal fade" id="ModalHorario" data-keyboard="true" role="dialog">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div id="ContenidoMalla"></div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="ModalNews" data-keyboard="true">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+                <img src="Content\IntraNew.JPG" id="imagennews" class="img-responsive" width="800 px" height="600 px" onclick="Habilitar()" style="cursor:pointer">
+                <object type="text/html" data="" id="VideoNews" width="800 px" height="600 px" style="display:none"></object>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+    <footer>
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+                            
+                            <div class="col-md-3 col-xs-4 col-sm-6">
+                                <img width="71%" src="Content\images\logos\BV_Certification.png">
+                            </div>
+                            <div class="col-md-9 col-xs-8 col-sm-6">
+                                <center>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <a href="https://www.facebook.com/preuniversitariocpech" target="_blank" class="btn-social btn-outline"><span class="sr-only">Facebook</span><i class="fa fa-fw fa-facebook"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://twitter.com/preucpech" target="_blank" class="btn-social btn-outline"><span class="sr-only">Twitter</span><i class="fa fa-fw fa-twitter"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/preucpech/" target="_blank" class="btn-social btn-outline"><span class="sr-only">Linked In</span><i class="fa fa-fw fa-instagram"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.youtube.com/channel/UCNQ_gsSRzEEXGTL69QtqJjw" target="_blank" class="btn-social btn-outline"><span class="sr-only">Dribble</span><i class="fa fa-fw fa-youtube-play"></i></a>
+                                        </li>
+                                    </ul>
+                                </center>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <p style="font-size:20px">
+                                    Sobre Cpech
+                                </p>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/quienes-somos/' , 'Quienes somos')"><span style="text-decoration:underline; color:white;">Quienes somos</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/nuestros-premios/' , 'Nuestros premios')"><span style="text-decoration:underline; color:white;">Nuestros premios</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/mision-vision-y-filosofia/' , 'Misión, visión y filosofía')"><span style="text-decoration:underline; color:white;">Misi&#243;n, visi&#243;n y filosof&#237;a</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/certificaciones/' , 'Certificaciones')"><span style="text-decoration:underline; color:white;">Certificaciones</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/politica-de-privacidad/' , 'Política de privacidad')"><span style="text-decoration:underline; color:white;">Pol&#237;tica de privacidad</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/bases-promocion/' , 'Bases Promoción')"><span style="text-decoration:underline; color:white;">Bases Promoci&#243;n</span></a><br>
+                                        <a href="javascript:ModalNew('http://rrhh.mundogec.cl/cv/cv_curriculumNEW_new.aspx?ref=1&cla=1' , 'Trabaja en Cpech')"><span style="text-decoration:underline; color:white;">Trabaja en Cpech</span></a><br>
+                                        <a href="javascript:ModalNew('http://portal.cepech.cl/intranet/MediosPago.asp?ref=1' , 'Medios de Pago')"><span style="text-decoration:underline; color:white;">Medios de Pago</span></a><br>
+
+
+                            </div>
+                                <div class="col-md-3">
+                                    <p style="font-size:20px">
+                                        Estrategia educativa
+                                    </p>
+
+                                            <a href="javascript:ModalNew('http://www.cepech.cl/#estrategia' , 'Estrategia Educativa')"><span style="text-decoration:underline; color:white;">Estrategia Educativa</span></a><br>
+                                            <a href="javascript:ModalNew('http://www.cepech.cl/#modelo' , 'Modelo educativo')"><span style="text-decoration:underline; color:white;">Modelo educativo</span></a><br>
+                                            <a href="javascript:ModalNew('http://www.cepech.cl/#alumnos' , 'Alumnos y egresados')"><span style="text-decoration:underline; color:white;">Alumnos y egresados</span></a><br>
+                                            <a href="javascript:ModalNew('http://www.cepech.cl/noticias/' , 'Actualidad')"><span style="text-decoration:underline; color:white;">Actualidad</span></a><br>
+                                            <a href="javascript:ModalNew('/content/Reglamento_alumno_2019.pdf' , 'Reglamento Interno 2019')"><span style="text-decoration:underline; color:white;">Reglamento Interno 2019</span></a><br>
+                                            <a href="javascript:ModalNew('/content/Calendario_academico2019.pdf' , 'Calendario académico 2019')"><span style="text-decoration:underline; color:white;">Calendario acad&#233;mico 2019</span></a><br>
+                                </div>
+                            <div class="col-md-3">
+                                <p style="font-size:20px">
+                                    Nuestros programas
+                                </p>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/programas/i-medio/' , 'Para I Medio')"><span style="text-decoration:underline; color:white;">Para I Medio</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/programas/ii-medio/' , 'Para II Medio')"><span style="text-decoration:underline; color:white;">Para II Medio</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/programas/iii-medio/' , 'Para III Medio')"><span style="text-decoration:underline; color:white;">Para III Medio</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/programas/iv-medio/' , 'Para IV Medio')"><span style="text-decoration:underline; color:white;">Para IV Medio</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/programas/egresado/' , 'Para egresados')"><span style="text-decoration:underline; color:white;">Para egresados</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/programas/extranjero/' , 'Para extranjeros')"><span style="text-decoration:underline; color:white;">Para extranjeros</span></a><br>
+                                        <a href="javascript:ModalNew('http://portal.cepech.cl/asesoria_NEW/postulaciones.asp?ref=1' , 'Asesoría a Postulaciones')"><span style="text-decoration:underline; color:white;">Asesor&#237;a a Postulaciones</span></a><br>
+                            </div>
+                            <div class="col-md-3">
+                                <p style="font-size:20px">
+                                    Nuestras sedes
+                                </p>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/zona-regiones/norte/' , 'Zona Norte')"><span style="text-decoration:underline; color:white;">Zona Norte</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/zona-regiones/centro/' , 'Zona Centro')"><span style="text-decoration:underline; color:white;">Zona Centro</span></a><br>
+                                        <a href="javascript:ModalNew('http://www.cepech.cl/zona-regiones/sur/' , 'Zona Sur')"><span style="text-decoration:underline; color:white;">Zona Sur</span></a><br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="modal fade" id="urlPageModal" data-keyboard="true">
+        <div class="modal-dialog modal-lg modal-md modal-xs modal-sm">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <object type="text/html" data="" id="detallaurl" width="1000 px" height="600 px"></object>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="ModalEncuesta" data-keyboard="false" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div id="ContenidoEncuesta"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="ModalNotificacion" data-keyboard="false" role="dialog">
+        <div class="modal-dialog modal-md">
+            <div class="modal-content">
+                <div id="ContentNotificacion"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="bundles\jquery?v=l_2JQLDpEf4NHz4ob7KHLjmeRFnOogKHIQKkMQQ4Chs1"></script>
+
+    <script src="bundles\bootstrap?v=oeqLiWIDwpBV8mpuAXgzUS7idzgdKJxHDtPiBDzZKpk1"></script>
+
+    <script src="bundles\jqueryval?v=v2z4Z8qXYF6JsuzzQtx0LtcGD7Um7k1RcQLNLYyA-NE1"></script>
+
+    
+    <script type="text/javascript">
+
+        function Habilitar() {
+            $('#imagennews').hide();
+            $('#VideoNews').show();
+        }
+
+
+        if ('Director' == 'Alumno' || 'Director' == 'Profesor'   ) { /*desahilitado 10-06-2019 para el profesor*/
+            if ('Director' == 'Alumno')
+                var url = "https://www.youtube.com/v/" + "qu4bmcoBdL0";
+            else
+                var url = "https://www.youtube.com/v/" + "UEsvnF89hXg";
+
+            $('#VideoNews').attr("data", url);
+            $("#ModalNews").modal({
+                show: 'fade', hide: 'drop',
+                keyboard: true
+            });
+        }
+
+        $("#btnMalla").click(function () {
+
+        var json = { tipo: 0};
+        $.ajax({
+            type: "POST",
+            url: '/Home/MallaHoraria',
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify(json),
+            success: function (data) {
+                $("#ContenidoMalla").html(data);
+                $("#ModalHorario").modal({
+                    show: 'fade', hide: 'drop',
+                    keyboard: true
+                });
+            }
+        });
+        });
+
+
+
+    $("#eleg_perfil").change(function () {
+        var pp = $("#eleg_perfil").val();
+        var ur = "Home";
+        var url = '/Home/CambioPerfil?perfil=PARAM1&amp;url=PARAM2';
+        url = url.replace("PARAM1", pp);
+        url = url.replace("PARAM2", ur);
+        url = url.replace("amp;", "");
+        window.location.href = url;
+    });
+
+        $("#navbarbut").click(function () {
+        var url = '/INTRA_Administracion_Navbar';
+        window.location.href = url;
+    });
+        $("#piebut").click(function () {
+        var url = '/INTRA_Administracion_PiePagina';
+        window.location.href = url;
+    });
+        $("#carrubut").click(function () {
+        var url = '/INTRA_Administracion_Carousel';
+        window.location.href = url;
+        });
+
+        $("#consejeriabtn").click(function () {
+            var url = '/Consejeria/Mantencion';
+            window.location.href = url;
+        });
+
+        $("#PortalDocentebtn").click(function () {
+            var url = '/PortalDocente';
+            window.location.href = url;
+        });
+
+        
+
+        $("#boteditPreguntas").click(function () {
+            var url = "Tab_Parametros/Edit/1";
+            window.location.href = url;
+        });
+    </script>
+
+
+
+</body>
+</html>
+
+<script type="text/javascript">
+    function AbrirEncuestaPrev(sinval) {
+        var json = {sinval : sinval};
+        $.ajax({
+            type: "POST",
+            url: '/Home/EncuestaPrev',
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify(json),
+            success: function (data) {
+                $("#ContenidoEncuesta").html(data);
+                $("#ModalEncuesta").modal({
+                    show: 'fade', hide: 'drop',
+                    backdrop: 'static',
+                    keyboard: false
+                });
+            }
+        });
+    }
+
+    function openNotify() {
+        $.ajax({
+            type: "POST",
+            url: '/Home/Notificaciones',
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                //console.log(data);
+                $("#ContentNotificacion").html(data);
+                $("#ModalNotificacion").modal({
+                    show: 'fade', hide: 'drop',
+                    backdrop: 'static',
+                    keyboard: false
+                });
+            }
+        });
+        }
+</script>
+
+
+<script type="text/javascript">
+
+
+        function ModalNew(url, titulo) {
+            //$('#titulo').text(titulo);
+            $('#detallaurl').attr("data", "");
+            $('#detallaurl').attr("data", url);
+            $("#urlPageModal").modal({
+                //show: true,
+                show: 'fade', hide: 'drop',
+                keyboard: true
+            });
+        }
+
+        function CambiarAlumno(valor) {
+            var json = { rut: valor };
+                        $.ajax({
+                            type: "POST",
+                            url: '/Home/CambiarSeleccion',
+                            contentType: "application/json; charset=utf-8",
+                            data: JSON.stringify(json),
+                            success: function (salida) {
+                                if (salida == "Error")
+                                    alert("Problemas en la Eliminacion!");
+                                else {
+                                    location.reload();
+                                }
+                            },
+                            error: function (result) {
+                                alert("Problemas en la grabacion!");
+                            }
+                        });
+    }
+
+function CambiarPerfil() {
+            $.ajax({
+                type: "POST",
+                url: '/Home/PerfilMultiple',
+                contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    $("#contenidoCambio").html(data);
+                    $("#urlPerfil").modal({
+                        show: 'fade', hide: 'drop',
+                        keyboard: true
+                    });
+                }
+            });
+    }
+
+    function CambiarUsuario() {
+            $.ajax({
+            type: "POST",
+            url: '/Home/CambioUsuario',
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                $("#ContenidoEncuesta").html(data);
+                $("#ModalEncuesta").modal({
+                    show: 'fade', hide: 'drop',
+                    backdrop: 'static',
+                    keyboard: false
+                });
+            }
+        });
+    }
+
+    function AbrirPageOld(url) {
+        var a = window.open(url, "", "width=1024,height=768,resizable=1,menubar=0,status=0,titlebar=0toolbar=0,scrollbars=1")
+    }
+
+
+</script>
+
+<div class="modal fade" id="urlPerfil" data-keyboard="true">
+    <div class="modal-dialog modal-lg modal-md">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div id="contenidoCambio"></div>
+            </div>
+        </div>
+    </div>
+</div>

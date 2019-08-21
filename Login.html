@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Cpech</title>
+    <link href="Content\css.css?v=dd5-F5C3qtKe3OKMXg6pnSeSx60D8ILlEXgZvfWZ31o1" rel="stylesheet">
+
+    <script src="bundles\modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+
+</head>
+<body style="background-color:#ffffff;">
+
+        
+
+
+<div style="align-content:center">
+    <center>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4 center text-center">
+                    <center>
+                        <br>
+
+                        <h4 class="nomargin lead" style="color:#666;">Bienvenido a <strong class="font-weight-light nomargin" style="color:#666;"><strong>Intranet de CPECH</strong></strong></h4>
+                        <hr>
+
+                        <img src="Content\images\logos\logo.png">
+
+                        <br><br>
+                        <p style="color:#666;">
+                            <strong>Ingrese RUT y Clave para acceder al Sistema.</strong>
+                        </p>
+
+                        <br>
+                        <div id="dvFormOlvidado">
+                            <fieldset>
+                                <!-- FORMULARIO -->
+                                <form id="form1" name="form1" method="post">
+
+                                    <table align="center">
+                                        <tr>
+                                            <td>
+                                                <div class="form-group input-group" style="margin-bottom:0">
+                                                    <span class="input-group-addon">
+                                                        <i class="glyphicon glyphicon-user"></i>
+                                                    </span>
+                                                    
+                                                    <input class="form-control input" id="txtUsuario" maxlength="10" name="txtUsuario" placeholder="RUT" style="" type="text" value="">
+                                                </div>
+                                                <small id="emailHelp" class="form-text text-muted text-primary">Rut con dígito sin puntos, Ej. 20345823-2</small>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <div class="form-group input-group" style="margin-bottom:0">
+                                                    <span class="input-group-addon">
+                                                        <i class="glyphicon glyphicon-lock"></i>
+                                                    </span>
+                                                    
+                                                    <input class="form-control" id="txtClave" maxlength="10" name="txtClave" placeholder="Clave" style="password" type="password" value="">
+                                                </div>
+                                                
+                                            </td>
+                                        </tr>
+                                    </table>
+
+                                    <br>
+                                    <center>
+                                        <div class="form-group text-center">
+                                            <button type="button" class="btn btn-primary" id="bt_login">
+                                                Ingresar
+                                            </button>
+                                            
+                                        </div>
+                                    </center>
+
+                                    <center>
+                                        
+                                    </center>
+
+
+                                </form>
+                            </fieldset>
+                            <div class="col-md-12 alert alert-info">Version Publicada <strong>2019/06/25 10:46</strong></div>
+                            <br>
+                            <strong class="alert-danger"></strong>
+                        </div>
+                    </center>
+                </div>
+
+            </div>
+        </div>
+    </center>
+</div>
+<div class="modal fade" id="ModalReset" data-keyboard="true" role="dialog">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div id="Reset"></div>
+        </div>
+    </div>
+</div>
+
+
+
+    <script src="bundles\jquery?v=l_2JQLDpEf4NHz4ob7KHLjmeRFnOogKHIQKkMQQ4Chs1"></script>
+
+    <script src="bundles\bootstrap?v=oeqLiWIDwpBV8mpuAXgzUS7idzgdKJxHDtPiBDzZKpk1"></script>
+
+    <script src="bundles\jqueryval?v=v2z4Z8qXYF6JsuzzQtx0LtcGD7Um7k1RcQLNLYyA-NE1"></script>
+
+    
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="Scripts\bootstrap.js"></script>
+    <script type="text/javascript" src="Scripts\bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#bt_login").click(function () {
+                //alert("123 probando!");
+
+                Validar();
+            });
+            //AGREGO K EN MAYUSCULA PAMN25/02/2019
+            $('#txtUsuario').keypress(function (e) {
+                if (String.fromCharCode(e.keyCode).match(/[^0-9-, k, K]/g)) return false;
+            });
+
+            $("#txtUsuario").keypress(function (e) {
+                if (e.which == 13) {
+                    Validar();
+                }
+            });
+            $("#txtClave").keypress(function (e) {
+                if (e.which == 13) {
+                    Validar();
+                }
+            });
+        });
+
+        function resetclave() {
+            var usuario = $('#txtUsuario').val();
+            
+            //alert(usuario);
+
+            var json = { usuario: usuario};
+            $.ajax({
+                type: "POST",
+                url: '/Login/Reseteo',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $("#Reset").html(data);
+                    $("#ModalReset").modal({
+                        show: 'fade', hide: 'drop',
+                        backdrop: 'static',
+                        keyboard: false
+                    });
+                }
+            });
+        }
+
+
+        function Validar() {
+            var Usuario = $("#txtUsuario").val();
+            var Clave = $("#txtClave").val();
+            //alert("Usuario: " + Usuario);
+            //alert("Clave: " + Clave);
+
+            if ((Usuario == "") || (Clave == "")) {
+                //modal ingrese campos...
+                alert("[ERROR] Debe ingresar Usuario y Clave");
+            }
+            else {
+                //redireccionar...
+                var url = '/Login/ValidaUsuario';
+                //alert(url);
+
+                $("#form1").attr("action", url);
+                //alert("After - action = " + $("#form1").attr("action"));
+
+                //submit the form
+                $("#form1").submit();
+            }
+        }
+    </script>
+
+</body>
+</html>

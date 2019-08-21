@@ -1,0 +1,316 @@
+Uri: http://intranetcpech.cpech.cl/Login
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Login.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\index.htm
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/Content/css?v=dd5-F5C3qtKe3OKMXg6pnSeSx60D8ILlEXgZvfWZ31o1
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\css.css
+Content Type: text/css
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\bundles\modernizr
+Content Type: text/javascript
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/LogoFondoBlanco.png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\LogoFondoBlanco.png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/carousel/I_mG20190415_030335.PNG
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\carousel\I_mG20190415_030335.PNG
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/extras/lenguaje.png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\extras\lenguaje.png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/extras/historia.png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\extras\historia.png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/extras/fisica.png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\extras\fisica.png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/IntraNew.JPG
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\IntraNew.JPG
+Content Type: image/jpeg
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/BV_Certification.png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\BV_Certification.png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/bundles/jquery?v=l_2JQLDpEf4NHz4ob7KHLjmeRFnOogKHIQKkMQQ4Chs1
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\bundles\jquery
+Content Type: text/javascript
+
+Uri: http://intranetcpech.cpech.cl/bundles/bootstrap?v=oeqLiWIDwpBV8mpuAXgzUS7idzgdKJxHDtPiBDzZKpk1
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\bundles\bootstrap
+Content Type: text/javascript
+
+Uri: http://intranetcpech.cpech.cl/bundles/jqueryval?v=v2z4Z8qXYF6JsuzzQtx0LtcGD7Um7k1RcQLNLYyA-NE1
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\bundles\jqueryval
+Content Type: text/javascript
+
+Uri: http://intranetcpech.cpech.cl/Content/circle.css
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\circle.css
+Content Type: text/css
+
+Uri: http://intranetcpech.cpech.cl/Content/Site.css
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\Site.css
+Content Type: text/css
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/MATicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\MATicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/BIOicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\BIOicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/CIENCIASicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\CIENCIASicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/LENicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\LENicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/FISicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\FISicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/FISiconNEM(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\FISiconNEM(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/ALicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\ALicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/CALicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\CALicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/LITiconNEM(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\LITiconNEM(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/MATiconNEM(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\MATiconNEM(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/QUIicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\QUIicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/QUIiconNEM(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\QUIiconNEM(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/iconos/HISicon(A).png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\iconos\HISicon(A).png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/152
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\152.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/25
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\25.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/157
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\157.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://intranetcpech.cpech.cl/fonts/glyphicons-halflings-regular.eot?
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://intranetcpech.cpech.cl/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/x-woff2
+
+Uri: http://intranetcpech.cpech.cl/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: http://intranetcpech.cpech.cl/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\glyphicons-halflings-regular.bin
+Content Type: application/octet-stream
+
+Uri: http://intranetcpech.cpech.cl/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://intranetcpech.cpech.cl/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://intranetcpech.cpech.cl/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://intranetcpech.cpech.cl/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\fontawesome-webfont.woff2
+Content Type: font/x-woff2
+
+Uri: http://intranetcpech.cpech.cl/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: http://intranetcpech.cpech.cl/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://intranetcpech.cpech.cl/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://intranetcpech.cpech.cl/Content/images/logos/logo.png
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Content\images\logos\logo.png
+Content Type: image/png
+
+Uri: http://intranetcpech.cpech.cl/Scripts/bootstrap.js
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Scripts\bootstrap.js
+Content Type: application/javascript
+
+Uri: http://intranetcpech.cpech.cl/Scripts/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\Scripts\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/24
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\24.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/64
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\64.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/63
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\63.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/62
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\62.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/27
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\27.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/117
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\117.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/70
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\70.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/159
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\159.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/158
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\158.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/84
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\84.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/147
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\147.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/86
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\86.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/50
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\50.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/22
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\22.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/107
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\107.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/108
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\108.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/114
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\114.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/115
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\115.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/83
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\83.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/85
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\85.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/49
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\49.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/21
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\21.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/105
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\105.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/106
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\106.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/112
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\112.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/113
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\113.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/26
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\26.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/118
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\118.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/23
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\23.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/69
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\69.html
+Content Type: text/html
+
+Uri: http://intranetcpech.cpech.cl/MisMateriales/Index/14
+File Name: c:\Downloaded Web Sites\intranetcpech.cpech.cl\MisMateriales\Index\14.html
+Content Type: text/html
+

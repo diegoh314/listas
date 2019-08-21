@@ -1,0 +1,5 @@
+ http://portal.cepech.cl/acad/vista_alumno.asp?Rut=123
+ http://portal.cepech.cl/acad/vista_profesor.asp?Rut=
+ 
+ http://portal.cepech.cl/acad/materiales.as...5201153&ma=
+ 
