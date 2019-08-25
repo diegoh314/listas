@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CDF BASICO CHILE SD" tvg-name="CHILE CDF BASICO SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20BASICO%20CHILE.png" group-title="CANALES CHILE",CHILE CDF BASICO SD
+http://tvplaymundo.com:80/wyxrKgfoRd/UiEvHgifGB/5116
+#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF FHD
+http://tvplaymundo.com:80/wyxrKgfoRd/UiEvHgifGB/12753
+#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF HD
+http://tvplaymundo.com:80/wyxrKgfoRd/UiEvHgifGB/5594
+#EXTINF:-1 tvg-id="CDF PREMIUM CHILE SD" tvg-name="CHILE CDF PREMIUM SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20PREMIUM%20CHILE.png" group-title="CANALES CHILE",CHILE CDF PREMIUM SD
+http://tvplaymundo.com:80/wyxrKgfoRd/UiEvHgifGB/5118
+#EXTINF:-1 tvg-id="CDF BASICO CHILE SD" tvg-name="CHILE CDF BASICO SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20BASICO%20CHILE.png" group-title="CANALES CHILE",CHILE CDF BASICO SD
 http://tvplaymundo.com:80/mmuxsbyZxy/oezWA2RmCJ/5116
 #EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF FHD
 http://tvplaymundo.com:80/mmuxsbyZxy/oezWA2RmCJ/12753
