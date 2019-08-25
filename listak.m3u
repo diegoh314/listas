@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CDF BASICO CHILE SD muerte a las 15:30" tvg-name="CHILE CDF BASICO SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20BASICO%20CHILE.png" group-title="CANALES CHILE",CHILE CDF BASICO SD muerte a las 15:30
-http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5116
-#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF FHD muerte a las 15:30" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF FHD muerte a las 15:30
-http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/12753
-#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF HD muerte a las 15:30" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF HD muerte a las 15:30
-http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5594
-#EXTINF:-1 tvg-id="CDF PREMIUM CHILE SD" tvg-name="CHILE CDF PREMIUM SD muerte a las 15:30" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20PREMIUM%20CHILE.png" group-title="CANALES CHILE",CHILE CDF PREMIUM SD muerte a las 15:30
-http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5118
+#EXTINF:-1 tvg-id="CDF BASICO CHILE SD" tvg-name="CHILE CDF BASICO SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20BASICO%20CHILE.png" group-title="CANALES CHILE",CHILE CDF BASICO SD
+http://tvplaymundo.com:80/mmuxsbyZxy/oezWA2RmCJ/5116
+#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF FHD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF FHD
+http://tvplaymundo.com:80/mmuxsbyZxy/oezWA2RmCJ/12753
+#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF HD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF HD
+http://tvplaymundo.com:80/mmuxsbyZxy/oezWA2RmCJ/5594
+#EXTINF:-1 tvg-id="CDF PREMIUM CHILE SD" tvg-name="CHILE CDF PREMIUM SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20PREMIUM%20CHILE.png" group-title="CANALES CHILE",CHILE CDF PREMIUM SD
+http://tvplaymundo.com:80/mmuxsbyZxy/oezWA2RmCJ/5118
 #EXTINF:-1,Estadio CDF Pura Tv
 https://videocdn.mixer.com/hls/97510587-897c846b8e2b0d22a01a9ec69a6fb382_source/index.m3u8
 #EXTINF:-1,tlr
