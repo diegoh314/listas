@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CDF BASICO CHILE SD muerte a las 15:30" tvg-name="CHILE CDF BASICO SD" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20BASICO%20CHILE.png" group-title="CANALES CHILE",CHILE CDF BASICO SD
+http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5116
+#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF FHD muerte a las 15:30" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF FHD
+http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/12753
+#EXTINF:-1 tvg-id="CDF CHILE HD" tvg-name="CHILE CDF HD muerte a las 15:30" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20HD%20CHILE.png" group-title="CANALES CHILE",CHILE CDF HD
+http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5594
+#EXTINF:-1 tvg-id="CDF PREMIUM CHILE SD" tvg-name="CHILE CDF PREMIUM SD muerte a las 15:30" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20PREMIUM%20CHILE.png" group-title="CANALES CHILE",CHILE CDF PREMIUM SD
+http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5118
 #EXTINF:-1,tlr
 http://23.237.36.170:8000/vtI6576XRCxrt/c6U4W5ys4Esx/112?|User-Agent=MEGAPLAYER
 #EXTINF:-1,tve
