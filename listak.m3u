@@ -7,6 +7,8 @@ http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/12753
 http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5594
 #EXTINF:-1 tvg-id="CDF PREMIUM CHILE SD" tvg-name="CHILE CDF PREMIUM SD muerte a las 15:30" tvg-logo="http://tvplaymundo.com/images/logos-tv/CDF%20PREMIUM%20CHILE.png" group-title="CANALES CHILE",CHILE CDF PREMIUM SD muerte a las 15:30
 http://tvplaymundo.com:80/L7JTXKnYvA/Ufp4Ac4VTF/5118
+#EXTINF:-1,Estadio CDF Pura Tv
+https://videocdn.mixer.com/hls/97510587-897c846b8e2b0d22a01a9ec69a6fb382_source/index.m3u8
 #EXTINF:-1,tlr
 http://23.237.36.170:8000/vtI6576XRCxrt/c6U4W5ys4Esx/112?|User-Agent=MEGAPLAYER
 #EXTINF:-1,tve
